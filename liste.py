@@ -1,15 +1,13 @@
 import os
-List1 = [8,9,3,16,1,10]
+List1 = [21,9,18,2,10]
+print("Lista1 iniziale: ", List1)
 List1.reverse()
-print("The reversed list is", List1)
+print("Lista1 invertita", List1)
 
-List2 = [91,67,120,34,76,54,78,87,56,64,345]
-List2.sort()
-print("The sorted list is", List2)
-
-List3 = []
-List3 = List1.copy()
-print("List3=",List3)
+List2 = [91,67,1212,11,76,333,78,87,56,45]
+print("Lista2 iniziale: ", List2)
+List1.reverse()
+print("Lista2 invertita", List2)
 
 indexvalue = List2[2:6]
-print("The index values are", indexvalue)
+print("Lista2 parziale", indexvalue)
