@@ -6,7 +6,7 @@ print("Lista1 invertita", List1)
 
 List2 = [91,67,1212,11,76,333,78,87,56,45]
 print("Lista2 iniziale: ", List2)
-List1.reverse()
+List2.reverse()
 print("Lista2 invertita", List2)
 
 indexvalue = List2[2:6]
