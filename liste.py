@@ -1,4 +1,3 @@
-import os
 List1 = [21,9,18,2,10]
 print("Lista1 iniziale: ", List1)
 List1.reverse()
@@ -11,3 +10,4 @@ print("Lista2 invertita", List2)
 
 indexvalue = List2[2:6]
 print("Lista2 parziale", indexvalue)
+print("Modifica eseguita il giorno 8/10/2024")
