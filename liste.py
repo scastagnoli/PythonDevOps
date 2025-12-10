@@ -10,4 +10,5 @@ print("Lista2 invertita", List2)
 
 indexvalue = List2[2:6]
 print("Lista2 parziale", indexvalue)
-print("Modifica eseguita il giorno 8/10/2024")
+print("Modifica eseguita il giorno 10/12/2025")
+
